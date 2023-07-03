@@ -22,3 +22,4 @@ suziiy/suziiy é um repositório especial: seu README.md aparecerá em seu perfi
 
 ![Snake animation](https://github.com/suziiy/suziiy/blob/output/github-contribution-grid-snake.svg)
 
+![foto de perfil](https://i.imgur.com/SAhU0dm.jpg)
