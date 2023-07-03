@@ -1,4 +1,3 @@
-https://i.imgur.com/SAhU0dm.jpg     profile
 
 ## Olá pessoal 👋
 
